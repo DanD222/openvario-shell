@@ -355,7 +355,7 @@ python-versions = "*"
 
 [[package]]
 name = "types-setuptools"
-version = "57.0.0"
+version = "57.4.15"
 description = "Typing stubs for setuptools"
 category = "dev"
 optional = false
@@ -392,7 +392,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=1.2.3)", "pytest-flake8", "pyt
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "28f93db7b369c51af3cc1e1e4ba88506da3baefd0704e7997faba611baa33073"
+content-hash = "47d745e32aa9e6217780d08f9f061af6d4dd0ea76267fca100e53042860aac1e"
 
 [metadata.files]
 appdirs = [
@@ -658,8 +658,8 @@ types-mock = [
     {file = "types_mock-4.0.1-py3-none-any.whl", hash = "sha256:1a470543be8de673e2ea14739622de3bfb8c9b10429f50338ba9ca1e868c15e9"},
 ]
 types-setuptools = [
-    {file = "types-setuptools-57.0.0.tar.gz", hash = "sha256:b3ada82b21dcb8e0cafd7658d8a16018a000e55bdb7f6f3cec033223360563ce"},
-    {file = "types_setuptools-57.0.0-py3-none-any.whl", hash = "sha256:71ed0f4c71d8fb5f3026a90ae82d163c13749b110e157d82126725ac8f714360"},
+    {file = "types-setuptools-57.4.15.tar.gz", hash = "sha256:650528ce803586029d7f153f32aed2dbaa6bb2888b233334af80d7ba63ed3c87"},
+    {file = "types_setuptools-57.4.15-py3-none-any.whl", hash = "sha256:f8f19876f714a440c4badef1b91b0648604ed443e703d29d44cd36ac93b01a77"},
 ]
 typing-extensions = [
     {file = "typing_extensions-3.10.0.2-py2-none-any.whl", hash = "sha256:d8226d10bc02a29bcc81df19a26e56a9647f8b0a6d4a83924139f4a8b01f17b7"},
